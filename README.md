@@ -2,7 +2,7 @@
 
 💻 **Personal Portfolio Website** showcasing my skills, projects, and passion for technology and innovation. Built with modern web technologies and Node.js for local development.
 
-🌐 **Live Demo:** [Deployed Version](xxxxx)
+🌐 **Live Demo:** [Deployed Version](https://portfolio-ieb3.onrender.com/contact.html)
 
 ---
 
@@ -28,7 +28,7 @@
 ## ⚡ How to Run Locally
 
 1. Clone the repository:  
-`git clone https://github.com/.git`
+`git clone https://github.com/Maria873324/Portfolio.git`
 
 2. Navigate to the project folder:  
 `cd portfolio`
@@ -46,7 +46,8 @@
 
 ## 📫 Contact Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/mmmmm)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](
+https://github.com/Maria873324/Portfolio)
 
 ---
 
