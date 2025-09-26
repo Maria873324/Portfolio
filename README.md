@@ -1,6 +1,4 @@
-# Maria Salimi Portfolio
-
-![Portfolio Banner](https://via.placeholder.com/1200x300?text=Maria+Salimi+Portfolio)
+# 🌟 Maria Salimi Portfolio
 
 💻 **Personal Portfolio Website** showcasing my skills, projects, and passion for technology and innovation. Built with modern web technologies and Node.js for local development.
 
@@ -8,39 +6,34 @@
 
 ---
 
-## Description
-This portfolio highlights my technical and professional skills, projects, and achievements as a 3rd-year Computer Engineering student. It is designed to demonstrate my knowledge in web development and problem-solving abilities, while also providing ways to connect for collaborations or job opportunities.
+## 💡 Features
+- 🔹 Fully responsive, modern portfolio  
+- 🔹 Smooth animations with **Typed.js**  
+- 🔹 Technical & professional skills visualized  
+- 🔹 Projects showcase with images and links  
+- 🔹 Contact form for direct communication  
+- 🔹 Autoplay video with mute/unmute button  
+- 🔹 Interactive social links
 
 ---
 
-## Features
-- Fully responsive and modern design
-- Smooth animations for better UX
-- Technical Skills & Professional Skills visual sections
-- Projects showcase with images and links
-- Contact form with validation
-- Autoplay video with mute/unmute functionality
-- Interactive social links
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-LTS-green?logo=node.js&logoColor=white)
 
 ---
 
-## Technologies Used
-- **Frontend:** HTML5, CSS3, JavaScript, Boxicons, Typed.js  
-- **Backend / Local Server:** Node.js, Express.js  
-- **Design:** Responsive layout, Flexbox & Grid  
-- **Version Control:** Git & GitHub  
-
----
-
-## How to Run Locally
+## ⚡ How to Run Locally
 
 1. Clone the repository:  
-`git clone  xxxxxxxxx`
+`git clone https://github.com/.git`
 
 2. Navigate to the project folder:  
-`cd xxxxxxxxx`
+`cd portfolio`
 
-3. Install dependencies (if using Express server):  
+3. Install dependencies:  
 `npm install`
 
 4. Start the local server:  
@@ -51,13 +44,11 @@ This portfolio highlights my technical and professional skills, projects, and ac
 
 ---
 
-## Author
-**Maria Salimi**  
-3rd-year Computer Engineering Student   
- [GitHub](xxxxxxxxxx) | [Email](mailto:maryasalimi4589@gmail.com)
+## 📫 Contact Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/mmmmm)
 
 ---
 
-## License
-This project is licensed under the MIT License.  
-© 2025 Maria Salimi. All rights reserved.
+## 📝 License
+This project is licensed under the MIT License. © 2025 Maria Salimi
